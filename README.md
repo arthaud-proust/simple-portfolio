@@ -5,6 +5,10 @@
 Démarrer simplement avec un portfolio de qualité autant au niveau du code (sémantique html correcte, sobre, bon pour le
 seo) que du rendu final (rédaction simple, ux imbattable car mono-page, responsive).
 
+## Tuto
+
+[Voir le wiki](https://github.com/arthaud-proust/simple-portfolio/wiki)
+
 ## Pour qui ?
 
 ### Vous commencez le dev
@@ -45,14 +49,3 @@ les branches et commits.
 Beaucoup de MMI utilisent VS Code, c'est polyvalent, puissant avec les extensions.  
 Je vous conseille l'extension Live Server : permet de démarrer un serveur web à la racine du projet, rafraîchit la page
 à chaque modification d'un fichier.
-
-## Démarrage
-
-1. Forkez le projet sur votre compte.
-2. Publiez-le sur un hébergeur gratuit, ex: Netlify (on publie d'abord, ça motive à continuer le site !)
-3. Clonez le projet sur votre pc.
-4. Ouvrez le projet dans votre éditeur de code et lancez un serveur web à la racine du projet (extension Live server sur
-   VS Code par exemple, ou `php -S localhost:8000` si vous avez php d'installé).
-5. Modifiez les textes (à propos, titre de page, description etc) pour que le site parle de vous.
-6. Pushez tout ça sur le repo, le site en ligne se met à jour
-7. Modifiez à votre guise !
