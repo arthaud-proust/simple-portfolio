@@ -49,10 +49,6 @@ ul, ol {
     margin-left: 1.1rem;
 }
 
-article {
-    margin-top: 2rem;
-}
-
 a {
     font-weight: bold;
     color: var(--primary);
@@ -64,7 +60,7 @@ img {
 }
 
 footer {
-    margin-top: 4rem;
+    margin-top: 6rem;
     padding: 2rem 0 3rem 0;
     background: var(--primary);
     color: var(--background);
