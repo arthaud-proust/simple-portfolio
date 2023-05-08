@@ -41,14 +41,22 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400;700&display=swap" rel="stylesheet">
 </head>
 <body>
+<header>
+    <div class="container">
+        <nav>
+            <a href="#intro">Introduction</a>
+            <a href="#parcours">Parcours</a>
+            <a href="#projets">Projets</a>
+        </nav>
+    </div>
+</header>
 <div class="container">
     <main>
         <h1>Arthaud Proust</h1>
         <section>
-
-            <article>
+            <article id="intro">
                 <h2>Artisan du web</h2>
-                <img src="https://picsum.photos/seed/intro/300/200" alt="photo d'introduction">
+                <img src="/img/cover.jpg" alt="">
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     Mauris convallis massa et hendrerit hendrerit.
@@ -69,7 +77,7 @@
                 </ul>
             </article>
 
-            <article>
+            <article id="parcours">
                 <h2>Parcours</h2>
                 <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -85,7 +93,7 @@
                 </p>
             </article>
 
-            <article>
+            <article id="projets">
                 <h2>Projets</h2>
                 <article>
                     <h3>Escalade Montesquieu</h3>
@@ -102,7 +110,8 @@
                         Mauris imperdiet odio sit amet cursus aliquam.
                     </p>
                     <p>
-                        <a href="https://escalade-montesquieu.fr" target="_blank" rel="noopener noreferer">
+                        <a href="https://escalade-montesquieu.fr" class="external-link" target="_blank"
+                           rel="noopener noreferer">
                             Voir le site Escalade Montesquieu
                         </a>
                     </p>
@@ -122,7 +131,8 @@
                         Mauris imperdiet odio sit amet cursus aliquam.
                     </p>
                     <p>
-                        <a href="https://metatags.arthaud.dev/" target="_blank" rel="noopener noreferer">
+                        <a href="https://metatags.arthaud.dev/" class="external-link" target="_blank"
+                           rel="noopener noreferer">
                             Voir le site Metatags
                         </a>
                     </p>
@@ -134,8 +144,15 @@
 
 <footer>
     <div class="container">
-        <h4>Simple Portfolio</h4>
-        <p>Source ouverte, produit par Arthaud Proust</p>
+        <h4>
+            <a href="https://github.com/arthaud-proust/simple-portfolio" class="external-link" target="_blank"
+               rel="noopener noreferer">Simple Portfolio</a>
+        </h4>
+        <p>
+            En source ouverte, produit par
+            <a href="https://arthaudproust.fr" class="external-link" target="_blank"
+               rel="noopener noreferer">Arthaud Proust</a>
+        </p>
     </div>
 </footer>
 </body>
