@@ -28,3 +28,31 @@ les couleurs.
 Libre à vous d'améliorer la base de ce repo pour avoir un site plus personnalisé ! Et si vous souhaitez contribuer, vous
 pouvez créer des Pull-request ou ouvrir des discussions pour améliorer l'existant ou ajouter des fonctionnalités (
 thèmes, intégrations Réseaux sociaux, blocs...).
+
+## Prérequis
+
+Même en simplifiant au maximum, il faut un minimum de connaissances pour dev. Mais pas de panique, vous en êtes
+capables !
+
+### Pouvoir utiliser Git
+
+Avoir un compte github, savoir cloner un projet, pull, faire un commit, push.  
+Je vous conseille GitKraken : c'est une interface pour faire les pull, push etc. Ça vous permet également de visualiser
+les branches et commits.
+
+### Avoir un éditeur de texte
+
+Beaucoup de MMI utilisent VS Code, c'est polyvalent, puissant avec les extensions.  
+Je vous conseille l'extension Live Server : permet de démarrer un serveur web à la racine du projet, rafraîchit la page
+à chaque modification d'un fichier.
+
+## Démarrage
+
+1. Forkez le projet sur votre compte.
+2. Publiez-le sur un hébergeur gratuit, ex: Netlify (on publie d'abord, ça motive à continuer le site !)
+3. Clonez le projet sur votre pc.
+4. Ouvrez le projet dans votre éditeur de code et lancez un serveur web à la racine du projet (extension Live server sur
+   VS Code par exemple, ou `php -S localhost:8000` si vous avez php d'installé).
+5. Modifiez les textes (à propos, titre de page, description etc) pour que le site parle de vous.
+6. Pushez tout ça sur le repo, le site en ligne se met à jour
+7. Modifiez à votre guise !
