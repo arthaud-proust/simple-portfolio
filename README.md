@@ -49,3 +49,10 @@ les branches et commits.
 Beaucoup de MMI utilisent VS Code, c'est polyvalent, puissant avec les extensions.  
 Je vous conseille l'extension Live Server : permet de démarrer un serveur web à la racine du projet, rafraîchit la page
 à chaque modification d'un fichier.
+
+## Utilisations
+Vous utilisez simple portfolio ? Adressez moi un message sur linkedin pour que j'ajoute votre site, ou faites une PR
+
+<img src="https://github.com/user-attachments/assets/6b782c4d-3265-4e10-8288-f28bbaceeea1" height="200"/>  
+
+[Portfolio Florian Sezer](https://sezer-florian-portfolio.netlify.app/)
