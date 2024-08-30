@@ -53,6 +53,7 @@ Je vous conseille l'extension Live Server : permet de d√©marrer un serveur web √
 ## Utilisations
 Vous utilisez simple portfolio ? Adressez moi un message sur linkedin pour que j'ajoute votre site, ou faites une PR
 
-<img src="https://github.com/user-attachments/assets/6b782c4d-3265-4e10-8288-f28bbaceeea1" height="200"/>  
+
+[<img src="https://github.com/user-attachments/assets/6b782c4d-3265-4e10-8288-f28bbaceeea1" height="200"/>](https://sezer-florian-portfolio.netlify.app/)
 
 [Portfolio Florian Sezer](https://sezer-florian-portfolio.netlify.app/)
